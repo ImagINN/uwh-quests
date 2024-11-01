@@ -14,3 +14,4 @@ func main() {
 	fmt.Println(SplitWhiteSpaces("   Multiple   spaces    here  "))
 	fmt.Println(SplitWhiteSpaces(""))
 }
+
